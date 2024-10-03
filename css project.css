@@ -1,0 +1,13 @@
+h1 {color: red;
+    text-align: center;
+    background-color: aquamarine;
+}
+.project {background-color: bisque;
+    
+}
+.espace {visibility: hidden;
+    width: 205px;
+
+    height: 250px;
+}
+.footer {background-color: yellow;}
